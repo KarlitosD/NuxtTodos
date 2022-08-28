@@ -1,0 +1,22 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "@vueuse/core": "9.1.1",
+    "@vueuse/nuxt": "9.1.1",
+    "nuxt": "3.0.0-rc.8"
+  },
+  "dependencies": {
+    "@formkit/auto-animate": "1.0.0-beta.3",
+    "@picocss/pico": "1.5.3",
+    "cuid": "2.1.8",
+    "ioredis": "5.2.3",
+    "redis-json": "6.0.3",
+    "zod": "3.18.0"
+  }
+}
