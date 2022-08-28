@@ -12,7 +12,7 @@ const toggleDark = useToggle(isDark)
   <header>
     <nav class="container">
       <ul>
-        <li><strong>Nuxt</strong>Tasks</li>
+        <li><strong>Nuxt</strong>Todos</li>
       </ul>
       <ul>
         <li>
